@@ -1,0 +1,28 @@
+*{
+    color: brown;
+}
+p{
+    color: green !important; 
+}
+h2{
+    color: blue ;
+}
+.hihtml{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: normal;
+    /* text-transform: ; */
+    text-align: center;
+}
+.text{
+    text-shadow: 2px 12px 2px gray;
+    text-indent: 23px;
+}
+p::first-letter{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+/* for visited links color are changed */
+a:visited{
+    color: blue;
+}
