@@ -26,3 +26,7 @@ p::first-letter{
 a:visited{
     color: blue;
 }
+.ulist{
+    color: rgb(255, 6, 6);
+    list-style-type:circle;
+}
